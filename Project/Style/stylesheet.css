@@ -129,7 +129,7 @@ h3.archives{
 
 
 .blog-title {
-    background-color: #af7b36;/* Set your desired background color here */
+    background-color: #a7722d; /* Set your desired background color here */
     padding: 10px 10px;
     margin: 0 300px 50px 300px;
     border-radius: 20px;
@@ -403,7 +403,7 @@ h3.archives{
         margin-bottom: 20px;
         text-align: center; 
         margin-left: 0; 
-    
+    }
 
     .first-content-wrapper {
         display: flex;
@@ -491,4 +491,3 @@ h3.archives{
     
 }
 
-}
